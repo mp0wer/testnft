@@ -1,8 +1,1 @@
-{
-    "name": "Mpower test nft",
-    "description": "Mpower test nft",
-    "image": "https://dummyimage.com/300x300/000/fff.jpg&text=Mpower",
-    "external_link": "https://ton.org",
-    "seller_fee_basis_points": 100,
-    "fee_recipient": "kQABrHSc4kFb1EOh-oQzAcNMKg2tgts5_aWk6wSbnI8v0VOm"
-  }
+{"image": "https://raw.githubusercontent.com/mp0wer/testnft/master/logo.png", "name": "TON Ducks", "description": "TON DUCKS is the first generative-ecosystem NFT collection of 10,000 unique pixel ducks! By creating a whole autonomous web3 ecosystem - we try to add value to the whole TON community!"}
