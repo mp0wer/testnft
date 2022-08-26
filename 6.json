@@ -25,11 +25,11 @@
     {
       "display_type" : "number",
       "trait_type" : "generation",
-      "value" : 4
+      "value" : 6
     }
   ],
   "description" : "Friendly Marketplace Creature that enjoys long swims in the ocean.",
-  "external_url" : "https://ton.org/?token_id=2",
-  "image" : "https://raw.githubusercontent.com/mp0wer/testnft/master/5.png",
-  "name" : "Boris McCoy5"
+  "external_url" : "https://ton.org/?token_id=6",
+  "image" : "https://raw.githubusercontent.com/mp0wer/testnft/master/6.png",
+  "name" : "Boris McCoy6"
 }
