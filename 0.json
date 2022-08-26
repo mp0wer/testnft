@@ -1,1 +1,35 @@
-{"name": "TON Ducks #0", "description": "TON DUCKS is the first generative-ecosystem NFT collection of 10,000 unique pixel ducks!", "image": "https://raw.githubusercontent.com/mp0wer/testnft/master/0.png", "attributes": [{"trait_type": "Background", "value": "Brown"}, {"trait_type": "Skin", "value": "White"}, {"trait_type": "Hat", "value": "Panama"}, {"trait_type": "Eye", "value": "Little eyes"}, {"trait_type": "Diamonds", "value": "White Diamond3"}, {"trait_type": "smoke", "value": "None"}]}
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : 3
+    },
+    {
+      "trait_type" : "stamina",
+      "value" : 11.7
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "sleepy"
+    },
+    {
+      "display_type" : "boost_number",
+      "trait_type" : "aqua_power",
+      "value" : 30
+    },
+    {
+      "display_type" : "boost_percentage",
+      "trait_type" : "stamina_increase",
+      "value" : 15
+    },
+    {
+      "display_type" : "number",
+      "trait_type" : "generation",
+      "value" : 1
+    }
+  ],
+  "description" : "Friendly Marketplace Creature that enjoys long swims in the ocean.",
+  "external_url" : "https://ton.org/?token_id=2",
+  "image" : "https://raw.githubusercontent.com/mp0wer/testnft/master/0.png",
+  "name" : "Boris McCoy"
+}

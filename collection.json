@@ -1,1 +1,8 @@
-{"image": "https://raw.githubusercontent.com/mp0wer/testnft/master/logo.png", "name": "TON Ducks", "description": "TON DUCKS is the first generative-ecosystem NFT collection of 10,000 unique pixel ducks! By creating a whole autonomous web3 ecosystem - we try to add value to the whole TON community!"}
+{
+  "name": "Marketplace Creatures",
+  "description": "Marketplace Creatures are adorable aquatic beings primarily for demonstrating what can be done using the Marketplace platform. Adopt one today to try out all the Marketplace buying, selling, and bidding feature set.",
+  "image": "https://raw.githubusercontent.com/mp0wer/testnft/master/logo.png",
+  "external_link": "https://ton.org",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+}
